@@ -38,6 +38,10 @@ Página de configurações do sistema.
 ![Login](./public/screenshots/login.png)
 Tela de autenticação do sistema.
 
+### Cadastro Login
+![Cadastro Login](./public/screenshots/Cadastrologin.png)
+Tela de autenticação do sistema.
+
 ## 🚀 Funcionalidades Principais
 - Cadastro e gerenciamento de entregas
 - Controle de notas de empenho
